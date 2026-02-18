@@ -80,7 +80,7 @@ Selected Publications on Specific Relevant Topics:
 
 | Week | Short description |
 |---|---|
-| 1-2 | Assignment 1 (Basic Docker operations) |
+| 1-2 | Assignment 1 (Basic Docker operations) [[available online](https://docs.google.com/document/d/1CYbA4eMDjy7WWEh5E5PY5DCMaEoVsfChLhlhG7RBE4o/edit?usp=sharing)] |
 | 3-4 | Assignment 2 (Basic Kubernetes operations) |
 | 5-6 | Assignment 3 (Scaling applications in Kubernetes) |
 | 7-8 | Assignment 4 (Kubernetes extensions) |
