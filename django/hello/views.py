@@ -4,4 +4,4 @@ from django.conf import settings
 
 
 def index(request):
-    return HttpResponse('Hello world!' + (' (DEBUG is on)' if settings.DEBUG else ''))
+    return HttpResponse('Hello to new world!' + (' (DEBUG is on)' if settings.DEBUG else ''))
